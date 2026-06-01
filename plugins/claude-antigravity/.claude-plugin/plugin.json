@@ -1,0 +1,22 @@
+{
+  "name": "claude-antigravity",
+  "description": "Consult Google Gemini through the Antigravity CLI (agy) for second opinions, fact-checks, and code review, plus an explicit council mode where Claude and Gemini deliberate as a consilium or a debate toward the single most truthful answer.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bytes-have-feelings"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/bytes-have-feelings/claude-antigravity",
+  "repository": "https://github.com/bytes-have-feelings/claude-antigravity",
+  "keywords": [
+    "gemini",
+    "antigravity",
+    "agy",
+    "second-opinion",
+    "fact-check",
+    "code-review",
+    "council",
+    "deliberation",
+    "multi-model"
+  ]
+}
